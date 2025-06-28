@@ -123,6 +123,8 @@ Contém **elementos auxiliares**, como tabelas, listas e recursos usados para va
 5. Digite a **senha correspondente**.
 6. Clique no botão habilitado para acessar sua dashboard personalizada.
 
+7. Arquivo também foi disponibilizado via link através do Google Driver. Ao acessar possívelmente o arquivo abrirá no Google Sheets, mas sugiro que baixe o arquivo e utilize O Excel.
+
 ---
 
 ## 🔧 Melhorias Futuras
